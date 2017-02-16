@@ -13,7 +13,7 @@ __NOTICE__: make sure you have Cordova Cli installed (`npm install -g cordova`)
 Steps:
 
 - `git clone https://github.com/marcelosantos/ionic2-scanner.git`
-- `cd ionic2-qrscanner-example`
+- `cd ionic2-scanner`
 - `npm install`
 - `ionic state restore` (Check out [Ionic State](https://github.com/driftyco/ionic-cli#ionic-state))
 
